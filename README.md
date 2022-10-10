@@ -38,7 +38,6 @@
 8. Secrets and Configs (Swarm)
 9. Custom Templates
 10. Webhooks
-11. API <!-- Include CI/CD Examples -->
 
 
 ## Kubernetes with Portainer
@@ -51,7 +50,8 @@
 7. Kubectl Shell
 8. Kubeconfig
 9. Webhooks
-10. API <!-- Include CI/CD Examples -->
+
+## API <!-- Include CI/CD examples for Docker, Swarm and Kube -->
 
 <br/>
 
